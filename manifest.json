@@ -1,0 +1,9 @@
+﻿{
+  "name": "DeezMistyBalls",
+  "version_number": "1.0.1",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "A mod that makes the Demister Wisp in the game have a configurable range between 6 and 50. Default value range is 6.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}

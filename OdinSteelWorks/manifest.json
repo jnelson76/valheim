@@ -1,0 +1,9 @@
+{
+    "name": "OdinsSteelworks",
+    "version_number": "0.1.4",
+    "website_url": "https://discord.gg/mbkPcvu9ax",
+    "description": "Steelcrafting and weaponsmithing! Crossbows, 2handed swords, axes, and more!",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
